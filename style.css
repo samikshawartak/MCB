@@ -1,0 +1,72 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+/*body{
+	background-image: url(d1.jpg);
+}*/
+.navbar{
+	top: 0;
+  	width: 100%;
+	background-color: white;
+	position: fixed;
+}
+.navbar-brand{
+	color: #053698;
+	font-family: algerian;
+	font-size: 30px;
+} 
+.nav{ 
+	color: brown;
+	float: right;
+	font-size: 20px;
+
+} 
+
+.bg {
+ 
+ 	top: 50px;
+  background-image: url('jumbo2.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  height:500px;
+  width: 100%;
+
+}
+.bg .container {
+  position:relative;
+  top:400px;
+  left: 20%;
+}
+.bg button{
+	height: 50px;
+	width: 500px;
+	border-radius: 20px;
+	background-color: #053698;
+	color: white;
+	outline: none;
+	font-size: 18px;
+	text-decoration: none;
+}
+
+.bg button:hover{
+	font-size: 22px;
+	height: 60px;
+}
+.card{
+	background-image: linear-gradient(to bottom right, #0066CC, #99CCFF);
+	color: white;
+	font-weight: bolder;
+
+}
+h1{
+	color:#053698;
+	font-family: algerian;
+}
+#section4{
+	color: #053698;
+	
+}
+.page-footer{
+	background-color: #99CCFF;
+}
