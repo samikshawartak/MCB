@@ -2,9 +2,7 @@
 	margin: 0;
 	padding: 0;
 }
-/*body{
-	background-image: url(d1.jpg);
-}*/
+
 .navbar{
 	top: 0;
   	width: 100%;
@@ -60,11 +58,10 @@
 
 }
 h1{
-	/*color:#053698;*/
-	color: black;
-	font-family: algerian;
+	color:#053698;
+	font-family: lucida handwriting;
 }
-#section4{
+#section3,#section1,#section2{
 	color: #053698;
 	
 }
@@ -79,4 +76,7 @@ form{
 	font-size: 20px;
 	font-weight: bolder;
 
+}
+.image11{
+	filter: blur(8px;);
 }
