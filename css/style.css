@@ -10,48 +10,48 @@
   	width: 100%;
 	background-color: white;
 	position: fixed;
+	z-index: 9999;
 }
 .navbar-brand{
 	color: #053698;
 	font-family: algerian;
-	font-size: 30px;
+	font-size: 40px;
 } 
 .nav{ 
-	color: brown;
 	float: right;
 	font-size: 20px;
 
 } 
 
-.bg {
- 
- 	top: 50px;
-  background-image: url('jumbo2.jpg');
-  background-size: cover;
-  background-repeat: no-repeat;
-  height:500px;
-  width: 100%;
+.jumbotron{
+	background-color: white;
 
 }
-.bg .container {
-  position:relative;
-  top:400px;
-  left: 20%;
+.img1{
+	margin-top: 50px;
 }
-.bg button{
+.first{
+	margin-top: 200px;
+	font-family: lucida handwriting;
+	font-size: 100px;
+	color: #020A76;
+}
+.btn-primary, .btn-success{
+	width: 150px;
 	height: 50px;
-	width: 500px;
-	border-radius: 20px;
-	background-color: #053698;
-	color: white;
+	border-radius: 30px;
 	outline: none;
-	font-size: 18px;
-	text-decoration: none;
+	font-family: lucida handwriting;
+	font-weight: bolder;
 }
 
-.bg button:hover{
-	font-size: 22px;
-	height: 60px;
+.cntct{
+	width: 120px;
+	height: 40px;
+	border-radius: 30px;
+	outline: none;
+	font-weight: bolder;
+	font-family: arial;
 }
 .card{
 	background-image: linear-gradient(to bottom right, #0066CC, #99CCFF);
@@ -60,7 +60,8 @@
 
 }
 h1{
-	color:#053698;
+	/*color:#053698;*/
+	color: black;
 	font-family: algerian;
 }
 #section4{
@@ -69,4 +70,16 @@ h1{
 }
 .page-footer{
 	background-color: #99CCFF;
+}
+form{
+	position: relative;
+	top: 150px;
+	font-family: lucida handwriting;
+	color: black;
+	font-size: 20px;
+	font-weight: bolder;
+
+}
+input[type=text]{
+	color: black;
 }
