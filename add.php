@@ -6,6 +6,13 @@
 	
 </head>
 <body>
+		<nav class="navbar">
+	  <div class="container-fluid">
+	    <div class="navbar-header">
+	      <a class="navbar-brand" href="#">InternTheory</a>
+	    </div>
+	 </div>
+	</nav><br><br><br><br><br>
 	<?php
 $mach = "localhost";
 $name = "root";
@@ -27,7 +34,7 @@ if ($conn->query($sql) === TRUE) {
 }
 
 $conn->close();
-?>
+?><br><br>
 <a href="index.php">Return to home page</a>
 </body>
 </html>

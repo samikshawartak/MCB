@@ -45,37 +45,35 @@
 
 
 	<div class="container">
-	  <div class="row">
-	    <div class="col-sm-9">
 	      <div id="section1">    
 	        <h1>Internships</h1>
 		        <div class="row">
 				  <div class="col-lg-4">
-				    <div class="card">
-				      <div class="card-body">
-				        <h5 class="card-title">Bolo App</h5>
-				        <p class="card-text">Marketing Internship<br>1 month<br>Rs.5000</p>
-				        <a href="#" class="btn btn-success">Apply</a>
-				      </div>
-				    </div>
+			        <div class="thumbnail" data-aos="zoom-in">
+			          <a href="#"><img src="bolo.png" class="image11"><p >Marketing Internship<br>1 month<br>Rs.5000</p></a>
+			        </div>
+			        <div data-aos="zoom-in">
+			          <h4>Bolo App</h4>
+			        </div>
+
 				  </div>
 				  <div class="col-lg-4">
-				    <div class="card">
-				      <div class="card-body">
-				        <h5 class="card-title">APEX ZENEITH</h5>
-				        <p class="card-text">Content Writing Internship<br>6 months<br>Rs.2500-5000</p>
-				        <a href="#" class="btn btn-success">Apply</a>
-				      </div>
-				    </div>
+					<div class="thumbnail" data-aos="zoom-in">
+			          <a href="#"><img src="apex.png" class="image11"><p >Content Writing Internship<br>6 months<br>Rs.2500-5000</p></a>
+			        </div>
+			        <div data-aos="zoom-in">
+			          <h4>APEX ZENEITH</h4>
+			        </div>
+
 				  </div>
-				  <div class="col-lg-4">
-				    <div class="card">
-				      <div class="card-body">
-				        <h5 class="card-title">TRIPN</h5>
-				        <p class="card-text">Travel and Tourism<br>2 months<br>Rs.2000</p>
-				        <a href="#" class="btn btn-success">Apply</a>
-				      </div>
-				    </div>
+				  <div class="col-lg-4">			    
+					<div class="thumbnail" data-aos="zoom-in">
+			          <a href="#"><img src="d1.jpg" class="image11"><p >Travel and Tourism<br>2 months<br>Rs.2000</p></a>
+			        </div>
+			        <div data-aos="zoom-in">
+			          <h4>TRIPN</h4>
+			        </div>
+
 				  </div>
 				</div>
 
@@ -87,7 +85,7 @@
 				      <div class="card-body">
 				        <h5 class="card-title">Java for Beginners</h5>
 				        <p class="card-text">Rs.2500</p>
-				        <a href="#" class="btn btn-success">Register</a>
+				        <a href="#" class="btn btn-info">Register</a>
 				      </div>
 				    </div>
 				  </div>
@@ -97,24 +95,24 @@
 				      <div class="card-body">
 				        <h5 class="card-title">Web Development</h5>
 				        <p class="card-text">Rs.2500</p>
-				        <a href="#" class="btn btn-success">Register</a>
+				        <a href="#" class="btn btn-info">Register</a>
 				      </div>
 				    </div>
 				  </div>
 
 	      </div>        
 	      <br><br>
-	      <div id="section3">         
-	        <h1>About Us</h1>
+	      <div id="section3">
+	      <br><br>         
+	        <h1><br><br>About Us</h1>
 	        <div class="container">
-	        <p>InternTheory helps students across India access exclusive student internships. If you are a student, download the InternTheory mobile app to verify your student status and unlock all opportunities in your city. You can also register Courses to enhance your skills.</p>
-	        <p></p>
+	        <p>InternTheory helps students across India access exclusive student internships. If you are a student, download the InternTheory mobile app to verify your student status and unlock all opportunities in your city. You can also register Courses to enhance your skills.</p><br><br>
+	        
 	        </div>
 	      </div>    
 
 	    </div>
-	  </div>
-	</div>
+	  
 	<footer class="page-footer font-small blue">
 
   
