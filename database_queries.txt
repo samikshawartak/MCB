@@ -1,0 +1,9 @@
+Database queries:----
+
+create database mcb;
+
+use mcb;
+
+create table users (id int primary key auto_increment,name varchar(30), email varchar(30),phone int(11),query varchar(100));
+
+ alter table users auto_increment=1;
